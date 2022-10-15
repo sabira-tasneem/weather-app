@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+}
+
+.weather-container {
+    text-align: center;
+}
+
+.weather-container img {
+    width: 25%;
+}
+
+.weather-container p {
+    font-size: 150%;
+    margin-top: -3%;
+}
